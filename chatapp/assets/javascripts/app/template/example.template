@@ -1,0 +1,7 @@
+<div id="chatDiv" style="width:400px;height:200px;background-color:red;overflow:auto"></div>
+<div>
+	<form action="javascript: publish()">
+		<input type="text" style="width:394px"id="message">
+	</form>
+	
+</div>

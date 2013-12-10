@@ -1,0 +1,7 @@
+{
+  "name":"ampjsDemo",
+  "dependencies":{
+    "ampjs": "https://github.com/Berico-Technologies/ampjs.git#0.0.14"
+  }
+}
+

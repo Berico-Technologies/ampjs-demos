@@ -1,0 +1,14 @@
+{
+  "name": "node-lru-cache",
+  "homepage": "https://github.com/Berico-Technologies/node-lru-cache",
+  "version": "2.3.0",
+  "_release": "2.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.3.0",
+    "commit": "2e43af19b0050f5c25eab53d566f37c44e987292"
+  },
+  "_source": "git://github.com/Berico-Technologies/node-lru-cache.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/Berico-Technologies/node-lru-cache"
+}
